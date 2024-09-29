@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **dApp and NFTs**
 
-- 🌱 I’m currently learning **MongoDB, Verilog, Node.JS**
+- 🌱 I’m currently learning **MongoDB, Java Script**
 
 - 👯 I’m looking to collaborate on **OpenSea**
 
